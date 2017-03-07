@@ -57,3 +57,5 @@ gem "simple_form"
 gem "devise"
 
 gem 'bcrypt', platforms: :ruby
+
+gem 'gravatarify', '~> 3.0.0'
